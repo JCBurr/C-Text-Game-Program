@@ -1,0 +1,5 @@
+D:\CSharp Projects\Game Learning\Game Learning\bin\Debug\Game Learning.exe
+D:\CSharp Projects\Game Learning\Game Learning\bin\Debug\Game Learning.pdb
+D:\CSharp Projects\Game Learning\Game Learning\obj\x86\Debug\Game Learning.exe
+D:\CSharp Projects\Game Learning\Game Learning\obj\x86\Debug\Game Learning.pdb
+D:\CSharp Projects\Game Learning\Game Learning\obj\x86\Debug\Game Learning.csprojResolveAssemblyReference.cache
