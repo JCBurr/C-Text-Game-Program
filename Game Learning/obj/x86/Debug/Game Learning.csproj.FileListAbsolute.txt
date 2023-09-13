@@ -3,3 +3,10 @@ D:\CSharp Projects\Game Learning\Game Learning\bin\Debug\Game Learning.pdb
 D:\CSharp Projects\Game Learning\Game Learning\obj\x86\Debug\Game Learning.exe
 D:\CSharp Projects\Game Learning\Game Learning\obj\x86\Debug\Game Learning.pdb
 D:\CSharp Projects\Game Learning\Game Learning\obj\x86\Debug\Game Learning.csprojResolveAssemblyReference.cache
+C:\Game Dev\Git Projects\C-Text-Game-Program\Game Learning\bin\Debug\Game Learning.exe.config
+C:\Game Dev\Git Projects\C-Text-Game-Program\Game Learning\bin\Debug\Game Learning.exe
+C:\Game Dev\Git Projects\C-Text-Game-Program\Game Learning\bin\Debug\Game Learning.pdb
+C:\Game Dev\Git Projects\C-Text-Game-Program\Game Learning\obj\x86\Debug\Game Learning.csproj.AssemblyReference.cache
+C:\Game Dev\Git Projects\C-Text-Game-Program\Game Learning\obj\x86\Debug\Game Learning.csproj.CoreCompileInputs.cache
+C:\Game Dev\Git Projects\C-Text-Game-Program\Game Learning\obj\x86\Debug\Game Learning.exe
+C:\Game Dev\Git Projects\C-Text-Game-Program\Game Learning\obj\x86\Debug\Game Learning.pdb
